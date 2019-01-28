@@ -1,0 +1,9 @@
+Etiquetas HTML
+	<br/> linebreak: Se utiliza para hacer el salto de linea.
+
+	<h1></h1> a <h6></h6> : Son el tamaño de la letra de los encabezados, siendo <h1> la cabecera de mayor nivel.
+
+Semblanza:
+
+Mi nombre es Lubia Rubio Camacho y tengo 20 años.
+Me gusta pasar tiempo con mis amigos, me gusta estar con mi familia, salir a pasear, me gusta ver peliculas y me gusta jugar videojuegos, a veces.
